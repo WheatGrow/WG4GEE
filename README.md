@@ -1,1 +1,1 @@
-The WG4GEE.ipynb contains the model PDT(Physiological Development Time) calculation process, which mainly shows the differences between the WG4GEE and the traditional crop model and how to directly perform raster calculations based on the GEE API.
+WG4GEE.ipynb contains the calculation process of the WG4GEE model, which mainly explains the difference between WG4GEE and the traditional crop model, and how to perform raster calculation directly based on the GEE API.
