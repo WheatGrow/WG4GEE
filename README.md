@@ -1,1 +1,2 @@
-WG4GEE.ipynb contains the calculation process of the WG4GEE model, which mainly explains the difference between WG4GEE and the traditional crop model, and how to perform raster calculation directly based on the GEE API.
+WG4GEE
+————————————————————————————————————————————————————————————
