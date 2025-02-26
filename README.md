@@ -21,5 +21,5 @@ The simulation results will be exported to your GEE asset list every 20 days, se
 
 Examples
 =
-You can find out how to view the simulation results of the model at the following link. In addition, the simulation data and species data used for the model are also open source and can also be viewed at that link.
+You can find out how to view the simulation results of the model at the following link. In addition, the simulation data and cultivar parameter data used for the model are also open source and can also be viewed at that link.
 https://code.earthengine.google.com/6324ec3dcc2002202b1e5eb4caf91346
